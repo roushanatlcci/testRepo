@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-23T07:53:04.176Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="YBRMx73pd77SSxAsAvti" version="15.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-23T07:57:36.978Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="ZJtvknTC3MD-RZaEeoel" version="15.3.0" type="github">
   <diagram id="zY3iNhDmGC0HeY9o9fEt" name="Page-1">
     <mxGraphModel dx="2066" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -196,7 +196,7 @@
         <mxCell id="a1HIUXj5uNK7OVQi4Cn4-33" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
           <mxGeometry x="405" y="390" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="a1HIUXj5uNK7OVQi4Cn4-34" value="" style="endArrow=none;dashed=1;html=1;fillColor=#e3c800;strokeColor=#B09500;startArrow=none;" edge="1" parent="1" source="a1HIUXj5uNK7OVQi4Cn4-130" target="a1HIUXj5uNK7OVQi4Cn4-33">
+        <mxCell id="a1HIUXj5uNK7OVQi4Cn4-34" value="" style="endArrow=none;dashed=1;html=1;fillColor=#e3c800;strokeColor=#B09500;startArrow=none;" edge="1" parent="1" source="a1HIUXj5uNK7OVQi4Cn4-56" target="a1HIUXj5uNK7OVQi4Cn4-33">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="506.61751037822023" y="620" as="sourcePoint" />
             <mxPoint x="420" y="280" as="targetPoint" />
@@ -232,7 +232,7 @@
         <mxCell id="a1HIUXj5uNK7OVQi4Cn4-45" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fa6800;strokeColor=#C73500;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="235" y="290" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="a1HIUXj5uNK7OVQi4Cn4-46" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;fillColor=#fa6800;strokeColor=#C73500;startArrow=none;" edge="1" parent="1" source="a1HIUXj5uNK7OVQi4Cn4-92" target="a1HIUXj5uNK7OVQi4Cn4-45">
+        <mxCell id="a1HIUXj5uNK7OVQi4Cn4-46" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;fillColor=#fa6800;strokeColor=#C73500;startArrow=none;" edge="1" parent="1" source="a1HIUXj5uNK7OVQi4Cn4-47" target="a1HIUXj5uNK7OVQi4Cn4-45">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="250" y="850" as="sourcePoint" />
             <mxPoint x="250" y="270" as="targetPoint" />
@@ -240,9 +240,6 @@
         </mxCell>
         <mxCell id="a1HIUXj5uNK7OVQi4Cn4-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="a1HIUXj5uNK7OVQi4Cn4-47" target="a1HIUXj5uNK7OVQi4Cn4-92">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="a1HIUXj5uNK7OVQi4Cn4-47" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fa6800;strokeColor=#C73500;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="235" y="430" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="a1HIUXj5uNK7OVQi4Cn4-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="a1HIUXj5uNK7OVQi4Cn4-50" target="a1HIUXj5uNK7OVQi4Cn4-54">
           <mxGeometry relative="1" as="geometry" />
@@ -520,11 +517,32 @@
         <mxCell id="a1HIUXj5uNK7OVQi4Cn4-130" value="Bugfix in release can be merged into develop" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fillColor=#969696;gradientColor=none;position2=0.79;" vertex="1" parent="1">
           <mxGeometry x="370" y="440" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="a1HIUXj5uNK7OVQi4Cn4-131" value="" style="endArrow=none;dashed=1;html=1;fillColor=#e3c800;strokeColor=#B09500;startArrow=none;" edge="1" parent="1" source="a1HIUXj5uNK7OVQi4Cn4-56" target="a1HIUXj5uNK7OVQi4Cn4-130">
+        <mxCell id="a1HIUXj5uNK7OVQi4Cn4-47" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fa6800;strokeColor=#C73500;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="235" y="480" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="a1HIUXj5uNK7OVQi4Cn4-133" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;fillColor=#fa6800;strokeColor=#C73500;startArrow=none;" edge="1" parent="1" source="a1HIUXj5uNK7OVQi4Cn4-92" target="a1HIUXj5uNK7OVQi4Cn4-47">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="420" y="500" as="sourcePoint" />
-            <mxPoint x="420" y="420" as="targetPoint" />
+            <mxPoint x="250" y="670" as="sourcePoint" />
+            <mxPoint x="250" y="320" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="a1HIUXj5uNK7OVQi4Cn4-134" value="" style="endArrow=none;dashed=1;html=1;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="110" y="440" as="sourcePoint" />
+            <mxPoint x="840" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="a1HIUXj5uNK7OVQi4Cn4-135" value="&lt;h1 style=&quot;font-size: 15px&quot;&gt;&lt;font style=&quot;font-size: 15px&quot;&gt;Release&lt;/font&gt;&lt;/h1&gt;&lt;div style=&quot;font-size: 15px&quot;&gt;From this point no new feature should be added to release&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="440" width="130" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="a1HIUXj5uNK7OVQi4Cn4-136" value="" style="endArrow=none;dashed=1;html=1;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="110" y="780" as="sourcePoint" />
+            <mxPoint x="840" y="770" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="a1HIUXj5uNK7OVQi4Cn4-137" value="&lt;h1 style=&quot;font-size: 15px&quot;&gt;&lt;font style=&quot;font-size: 15px&quot;&gt;Release&lt;/font&gt;&lt;/h1&gt;&lt;div style=&quot;font-size: 15px&quot;&gt;From this point no new feature should be added to release&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="780" width="130" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
