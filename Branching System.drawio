@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-24T04:01:53.493Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="G7JzfP0NmbuinaWT50C1" version="15.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-24T04:12:21.152Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="3oxUj7qmApUuvKLzWnP8" version="15.3.0" type="github">
   <diagram id="zY3iNhDmGC0HeY9o9fEt" name="Page-1">
     <mxGraphModel dx="2066" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -511,7 +511,7 @@
         <mxCell id="a1HIUXj5uNK7OVQi4Cn4-128" value="Only bugfix" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fillColor=#969696;gradientColor=none;position2=0;" vertex="1" parent="1">
           <mxGeometry x="525" y="450" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="a1HIUXj5uNK7OVQi4Cn4-129" value="Start of release branch for 1.0" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fillColor=#969696;gradientColor=none;position2=0.42;" vertex="1" parent="1">
+        <mxCell id="a1HIUXj5uNK7OVQi4Cn4-129" value="Start of new release branch" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fillColor=#969696;gradientColor=none;position2=0.42;" vertex="1" parent="1">
           <mxGeometry x="460" y="335" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="a1HIUXj5uNK7OVQi4Cn4-130" value="Bugfix in release can be merged into develop" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fillColor=#969696;gradientColor=none;position2=0.79;" vertex="1" parent="1">
