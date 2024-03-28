@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-28T12:18:47.203Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="lC_ssC4Ael3kRes0g0Em" version="23.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-28T12:25:43.645Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="kPZ2oUQnOHhiUNJ10FOI" version="23.1.1" type="github">
   <diagram name="Page-1" id="dx0UbN1KDhQHgxMDVQlJ">
     <mxGraphModel dx="1160" dy="756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -64,7 +64,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="R-Dst_B60V8JOMCjQVf9-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Wb7Bm_bJqOq9qxchE__--12" target="R-Dst_B60V8JOMCjQVf9-4">
+        <mxCell id="R-Dst_B60V8JOMCjQVf9-5" value="Metadata" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Wb7Bm_bJqOq9qxchE__--12" target="R-Dst_B60V8JOMCjQVf9-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Wb7Bm_bJqOq9qxchE__--12" value="2.0&lt;br&gt;at-data-processor" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
@@ -102,6 +102,16 @@
         </mxCell>
         <mxCell id="Wb7Bm_bJqOq9qxchE__--28" value="3.0&lt;br&gt;at-data-server" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="70" y="360" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="R-Dst_B60V8JOMCjQVf9-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="R-Dst_B60V8JOMCjQVf9-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="660" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="R-Dst_B60V8JOMCjQVf9-8" value="AT-portal metadata" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="R-Dst_B60V8JOMCjQVf9-7">
+          <mxGeometry x="-0.239" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="R-Dst_B60V8JOMCjQVf9-4" value="4.0&lt;br&gt;at-portal-service" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="280" y="430" width="180" height="60" as="geometry" />
